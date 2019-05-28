@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/lwiegma1/git/github.com/flask_learn/microblog/venv/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
